@@ -29,10 +29,11 @@
 - [Domain & IP Lookup](https://globalonlinetools.com/tools/domain-ip-lookup) – Check domain/IP information quickly.  
 
 **Other recommended developer tools:**  
-- [JSFiddle](https://jsfiddle.net) – Online editor for HTML, CSS, JS snippets.  
-- [CodePen](https://codepen.io) – Showcase and test front-end projects.  
-- [Regex101](https://regex101.com) – Advanced regex testing and explanation.  
-- [JSONLint](https://jsonlint.com) – Validate and format JSON files.  
+- [JSFiddle](https://jsfiddle.net) – Online editor for HTML, CSS, JS snippets.
+- [CodePen](https://codepen.io) – Showcase and test front-end projects.
+- [Regex101](https://regex101.com) – Advanced regex testing and explanation.
+- [JSONLint](https://jsonlint.com) – Validate and format JSON files.
+- [DevKits](https://aiforeverthing.com) – 24 free online developer tools including code formatters, data converters, and developer utilities.  
 
 ---
 
