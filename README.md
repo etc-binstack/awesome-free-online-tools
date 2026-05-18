@@ -127,3 +127,10 @@ Please ensure tools are **free, web-based, and accessible**.
 - Participate in GitHub discussions to showcase this resource.  
 - Include your website link in your GitHub profile for extra authority.  
 
+
+
+---
+
+## 🌐 All-in-One Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools covering PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress, WebP), video to GIF, QR codes, invoice generator, JSON formatter, Base64, UUID, JWT decoder, password generator. Files never uploaded — 100% local.
