@@ -100,6 +100,18 @@
 
 ---
 
+## 🌍 Other Curated Free Tools
+
+Hand-picked free, browser-based, no-signup utilities from across the web:
+
+- [TinyTools](https://tinytools-smoky.vercel.app/) – Suite of 9 free single-purpose web utilities, all browser-based with no signup: domain name generator, OG image generator, AI background remover (runs locally via ONNX/WASM, no upload), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, EU AI Act–compliant content disclosure generator, and AI robots.txt generator. Open source.
+- [Squoosh](https://squoosh.app/) – Compress and convert images right in the browser.
+- [TinyPNG](https://tinypng.com/) – Smart lossy compression for PNG and JPEG images.
+- [CleanPNG](https://www.cleanpng.com/) – Free transparent PNG library.
+- [Remove.bg](https://www.remove.bg/) – Remove image backgrounds in seconds.
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! If you know a free online tool that should be added:
