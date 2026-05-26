@@ -127,3 +127,5 @@ Please ensure tools are **free, web-based, and accessible**.
 - Participate in GitHub discussions to showcase this resource.  
 - Include your website link in your GitHub profile for extra authority.  
 
+
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) — Free browser-based PDF tools (compress, merge, split, convert, unlock). All processing happens locally, no file uploads.
