@@ -100,7 +100,13 @@
 
 ---
 
-## 🤝 Contributing
+### 🌟 Curated Tool Collections
+
+| Tool | Description |
+|------|-------------|
+| [adwatak.cloud](https://adwatak.cloud/) | 70+ free multilingual (AR/EN) online tools: AI Detector, SEO Audit, PDF, Image, Code tools, Calculators & more. No signup required. |
+
+### 🤝 Contributing
 
 We welcome contributions! If you know a free online tool that should be added:
 
