@@ -66,6 +66,7 @@
 - [Color Code Picker & Converter](https://globalonlinetools.com/tools/color-code-picker-converter) – Pick and convert color codes easily.  
 
 **Other design tools:**  
+- [FreePNGConvert](https://freepngconvert.com) – Free WebP to PNG converter, browser-based, no upload required.  
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
