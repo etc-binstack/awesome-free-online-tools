@@ -69,6 +69,7 @@
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
+- [FreePNGConvert](https://freepngconvert.com) – Free WebP to PNG converter with batch support, privacy-first, no signup.
 
 ---
 
