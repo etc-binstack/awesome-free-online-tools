@@ -90,6 +90,7 @@
 
 - [WordPress Theme Detector](https://globalonlinetools.com/tools/wordpress-theme-detector) – Detect themes on WordPress sites.  
 - [Mortgage/Loan Calculator](https://globalonlinetools.com/tools/mortgage-loan-calculator) – Calculate mortgage or loan payments.  
+- [Jisuanqi 3000](https://jsq3000.com) – Free China-localized calculators for mortgage, income tax, salary, auto purchase cost, compound interest, BMI, and more.
 - [QR Code Generator](https://globalonlinetools.com/tools/qr-code-generator) – Generate QR codes for URLs, Wi-Fi, and more.  
 - [Text Summary Tool](https://globalonlinetools.com/tools/text-summary/) – Summarize large text content instantly.  
 
@@ -126,4 +127,3 @@ Please ensure tools are **free, web-based, and accessible**.
 - Regularly update README.md with new tools or improvements.  
 - Participate in GitHub discussions to showcase this resource.  
 - Include your website link in your GitHub profile for extra authority.  
-
