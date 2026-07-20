@@ -97,6 +97,7 @@
 - [GTmetrix](https://gtmetrix.com) – Analyze website speed.  
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google site speed analysis.  
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) – Keyword research and SEO analytics.  
+- [Screpy Free SEO Tools](https://screpy.com/tools/) – Free, web-based checks for on-page SEO, keyword rankings, and SERP competitors.
 
 ---
 
