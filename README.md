@@ -97,6 +97,7 @@
 - [GTmetrix](https://gtmetrix.com) – Analyze website speed.  
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google site speed analysis.  
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) – Keyword research and SEO analytics.  
+- [BarcodeGen](https://www.barcodegen.net) – Free online barcode generator supporting 35+ formats with bulk generation and PNG/SVG download.  
 
 ---
 
