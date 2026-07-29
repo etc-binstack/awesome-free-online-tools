@@ -68,6 +68,7 @@
 **Other design tools:**  
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
+- [FreePNGConvert](https://freepngconvert.com) – Free WebP to PNG converter. Convert images directly in your browser, no upload required.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
 
 ---
