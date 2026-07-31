@@ -100,6 +100,12 @@
 
 ---
 
+## 🧰 Other Curated Free Tools
+
+- [Grams in a Pound](https://gramsinpound.com/) – Convert pounds to grams with the exact 453.59237 g per pound formula, quick reference chart, worked examples, and FAQs.
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! If you know a free online tool that should be added:
@@ -126,4 +132,3 @@ Please ensure tools are **free, web-based, and accessible**.
 - Regularly update README.md with new tools or improvements.  
 - Participate in GitHub discussions to showcase this resource.  
 - Include your website link in your GitHub profile for extra authority.  
-
