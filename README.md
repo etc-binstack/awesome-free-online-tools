@@ -100,6 +100,10 @@
 
 ---
 
+## 🧰 Other Curated Free Tools
+
+- [Concrete Calculator Hub](https://concreteestimatorhub.com/) – Free concrete calculators for slabs, footings, post holes, bag counts, ready-mix planning, and material cost estimates.
+
 ## 🤝 Contributing
 
 We welcome contributions! If you know a free online tool that should be added:
