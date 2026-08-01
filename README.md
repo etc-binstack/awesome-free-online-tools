@@ -100,6 +100,12 @@
 
 ---
 
+## 🧰 Other Curated Free Tools
+
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) – Free browser-based concrete calculators for slabs, bags, ready-mix decisions, project cost checks, and quote review.
+
+---
+
 ## 🤝 Contributing
 
 We welcome contributions! If you know a free online tool that should be added:
@@ -126,4 +132,3 @@ Please ensure tools are **free, web-based, and accessible**.
 - Regularly update README.md with new tools or improvements.  
 - Participate in GitHub discussions to showcase this resource.  
 - Include your website link in your GitHub profile for extra authority.  
-
