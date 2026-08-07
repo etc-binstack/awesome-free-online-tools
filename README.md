@@ -1,129 +1,92 @@
-# 🌐 Best Free Online Tools — Global Online Tools
+# Awesome Free Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Global Online Tools](https://globalonlinetools.com) offers a curated collection of **free online tools** to boost productivity, optimize websites, create graphics, generate hashtags, and enhance SEO. All tools are browser-based, require no installation or signup, and are ready to use instantly. This list includes both our recommended utilities and other high-quality free tools available online.
+A curated list of free, browser-based tools that do one thing well — for developers, designers, and everyone in between. Most run entirely in the browser with no sign-up and nothing to install.
 
----
+## Contents
 
-## 📋 Table of Contents
+- [Awesome Free Tools ](#awesome-free-tools-)
+  - [Contents](#contents)
+  - [Developer utilities](#developer-utilities)
+  - [Code images \& snippets](#code-images--snippets)
+  - [Data, APIs \& testing](#data-apis--testing)
+  - [Security \& secrets](#security--secrets)
+  - [Design \& images](#design--images)
+  - [PDF \& files](#pdf--files)
+  - [QR \& business cards](#qr--business-cards)
+  - [Time \& date](#time--date)
+  - [Career \& writing](#career--writing)
+  - [Contributing](#contributing)
 
-- [Developer & Code Tools](#developer--code-tools)  
-- [YouTube & Video Tools](#youtube--video-tools)  
-- [Social Media & Marketing Tools](#social-media--marketing-tools)  
-- [Design & Graphics Tools](#design--graphics-tools)  
-- [Security & Productivity Tools](#security--productivity-tools)  
-- [Website & SEO Utilities](#website--seo-utilities)  
-- [Other Curated Free Tools](#other-curated-free-tools)  
-- [Contributing](#contributing)  
-- [Legal & Contact](#legal--contact)  
+## Developer utilities
 
----
+- **[CyberChef](https://gchq.github.io/CyberChef/)** — The "cyber Swiss Army knife": a huge, chainable toolbox for encoding, encryption, compression and data analysis.
+- **[IT Tools](https://it-tools.tech)** — Open-source collection of everyday developer utilities — converters, generators and formatters — in one clean interface.
+- **[DevDocs](https://devdocs.io)** — Fast, searchable, offline-capable API documentation for dozens of languages and frameworks in a single tab.
+- **[regex101](https://regex101.com)** — Build and debug regular expressions with live match highlighting and a breakdown of every token.
+- **[crontab.guru](https://crontab.guru)** — Translate any cron schedule expression into plain English as you type.
+- **[explainshell](https://explainshell.com)** — Paste a shell command and see what every flag and argument actually does.
+- **[transform.tools](https://transform.tools)** — Convert between formats: JSON to TypeScript, CSS to JS, GraphQL to code and many more.
+- **[decoder.tools](https://decoder.tools)** — 90 decoders and parsers: Base64, JWT, hex, URL, classical ciphers, X.509 certificates, packet headers and structured IDs.
+- **[slug.tools](https://slug.tools)** — URL and slug toolkit: slug generator, bulk CSV slugifier, UTM builder, URL parser, query cleaner and SERP preview.
 
-## 🚀 Developer & Code Tools
+## Code images & snippets
 
-- [HTML/CSS/JS Minifier](https://globalonlinetools.com/tools/html-css-js-minifier) – Compress and optimize web files.  
-- [Code Beautifier](https://globalonlinetools.com/tools/code-beautifier) – Format and clean HTML, CSS, JS, or JSON code.  
-- [Regex Tester](https://globalonlinetools.com/tools/regex-tester) – Test regular expressions instantly.  
-- [JSON/XML Formatter](https://globalonlinetools.com/tools/json-xml-formatter) – Beautify and validate JSON or XML.  
-- [Robots.txt Generator](https://globalonlinetools.com/tools/robots-txt-generator) – Create robots.txt files for SEO.  
-- [Keyword Density Checker](https://globalonlinetools.com/tools/keyword-density-checker) – Optimize your content keywords.  
-- [Domain & IP Lookup](https://globalonlinetools.com/tools/domain-ip-lookup) – Check domain/IP information quickly.  
+- **[Carbon](https://carbon.now.sh)** — Create and share good-looking images of your source code with editor themes and window styling.
+- **[ray.so](https://ray.so)** — Turn code into clean, minimal shareable images with a tight set of themes and backgrounds.
+- **[codeshot.io](https://codeshot.io)** — 17 generators for code, terminals, logs and API responses to image, with 18+ language highlighting and PNG/SVG export.
 
-**Other recommended developer tools:**  
-- [JSFiddle](https://jsfiddle.net) – Online editor for HTML, CSS, JS snippets.  
-- [CodePen](https://codepen.io) – Showcase and test front-end projects.  
-- [Regex101](https://regex101.com) – Advanced regex testing and explanation.  
-- [JSONLint](https://jsonlint.com) – Validate and format JSON files.  
+## Data, APIs & testing
 
----
+- **[Mockaroo](https://mockaroo.com)** — Generate realistic mock datasets and export to CSV, JSON, SQL and Excel.
+- **[JSONPlaceholder](https://jsonplaceholder.typicode.com)** — Free fake REST API for testing and prototyping front-end code.
+- **[JSON Crack](https://jsoncrack.com)** — Visualize JSON, YAML and CSV as interactive node graphs.
+- **[Hoppscotch](https://hoppscotch.io)** — Open-source, in-browser API client for REST, GraphQL and WebSocket requests.
+- **[faker.tools](https://faker.tools)** — 79 synthetic data generators with seed-reproducible output and ready seed scripts for SQL, JSON, CSV and GraphQL.
 
-## 🎥 YouTube & Video Tools
+## Security & secrets
 
-- [YouTube Tag & Title Generator](https://globalonlinetools.com/tools/youtube-tag-title-generator) – Generate optimized video titles and tags.  
-- [Video Caption & Subtitle Tool](https://globalonlinetools.com/tools/video-caption-subtitle-tool) – Add subtitles/captions to videos.  
-- [YouTube Thumbnail Tester](https://globalonlinetools.com/tools/youtube-thumbnail-tester) – Preview thumbnails to maximize clicks.  
+- **[Have I Been Pwned](https://haveibeenpwned.com)** — Check whether your email or password has appeared in a known data breach.
+- **[encrypt.tools](https://encrypt.tools)** — 62 cryptography tools: AES-256, RSA/ECC key generation, SHA/BLAKE hashing, HMAC, PGP and classical ciphers.
+- **[apikey.tools](https://apikey.tools)** — 64 tools for API keys, tokens and secrets: key generation, JWT/HMAC debugging, secret scanning and `.env` / Kubernetes config output.
 
-**Other free video tools:**  
-- [Kapwing](https://www.kapwing.com) – Online video editor and meme generator.  
-- [VEED.io](https://www.veed.io) – Quick online video editor.  
+## Design & images
 
----
+- **[FreePNGConvert](https://freepngconvert.com)** — Convert WebP, GIF, JPG to PNG and PNG to JPG, WEBP, or PDF. All in-browser, no upload, no signup.
+- **[Photopea](https://photopea.com)** — Full-featured image editor in the browser that opens and edits PSD, XCF and Sketch files.
+- **[Squoosh](https://squoosh.app)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
+- **[Excalidraw](https://excalidraw.com)** — Hand-drawn-style whiteboard for diagrams, wireframes and quick sketches.
+- **[tldraw](https://tldraw.com)** — Fast, collaborative infinite canvas for drawing and diagramming.
+- **[Coolors](https://coolors.co)** — Generate, tweak and save color palettes in seconds.
+- **[remove.bg](https://remove.bg)** — Remove the background from any photo automatically.
+- **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
+- **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
+- **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
 
-## 📱 Social Media & Marketing Tools
+## PDF & files
 
-- [Hashtag Generator](https://globalonlinetools.com/tools/hashtag-generator) – Find trending hashtags for social posts.  
-- [Social Media Scheduler](https://globalonlinetools.com/tools/social-media-scheduler) – Schedule posts across multiple platforms.  
+- **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
+- **[Stirling PDF](https://stirlingpdf.io)** — Open-source, self-hostable toolkit covering 50+ PDF operations.
+- **[split.tools](https://split.tools)** — Split images into grids, PDFs by page range, audio on the waveform and video on a timeline.
 
-**Other marketing tools:**  
-- [Buffer](https://buffer.com) – Social media management.  
-- [Canva](https://www.canva.com) – Free templates for social graphics.  
-- [Bitly](https://bitly.com) – URL shortening and tracking.  
+## QR & business cards
 
----
+- **[QRCode Monkey](https://www.qrcode-monkey.com)** — Custom QR codes with logos, colors and high-resolution export.
+- **[qrfast.io](https://qrfast.io)** — QR codes for links, WiFi, vCards, PDFs, WhatsApp and crypto, with styling and PNG/SVG/JPEG/WEBP export.
+- **[cartevisite.io](https://cartevisite.io)** — Double-sided business card maker with full typography control, logo import and a built-in QR flow.
 
-## 🎨 Design & Graphics Tools
+## Time & date
 
-- [Meme/Graphic Creator](https://globalonlinetools.com/tools/meme-graphic-creator) – Generate memes or graphics quickly.  
-- [Color Code Picker & Converter](https://globalonlinetools.com/tools/color-code-picker-converter) – Pick and convert color codes easily.  
+- **[time.is](https://time.is)** — Exact current time anywhere, with time-zone detail for any city.
+- **[World Time Buddy](https://www.worldtimebuddy.com)** — Compare time zones side by side and find meeting times across cities.
+- **[worldclock.tools](https://worldclock.tools)** — Live local time for 34,043 cities, a cross-timezone meeting planner and 36 converters and timers.
+- **[duration.tools](https://duration.tools)** — 32 calculators for shifts, timesheets, business days, SMPTE timecode, cron and running pace.
 
-**Other design tools:**  
-- [Figma](https://www.figma.com) – Free UI/UX design tool.  
-- [Unsplash](https://unsplash.com) – Free high-quality stock images.  
-- [Pixlr](https://pixlr.com) – Online image editing.  
+## Career & writing
 
----
+- **[OpenResume](https://www.open-resume.com)** — Open-source resume builder and ATS-readiness checker.
+- **[Hemingway Editor](https://hemingwayapp.com)** — Highlights hard-to-read sentences and passive voice so you can tighten your writing.
+- **[Cviya](https://cviya.com)** — Free CV builder with drag-and-drop editing, live preview and ATS-friendly PDF/PNG export in five languages.
 
-## 🔐 Security & Productivity Tools
+## Contributing
 
-- [Random Password Generator](https://globalonlinetools.com/tools/random-password-generator) – Generate secure passwords.  
-- [MD5/SHA1 Hash Tool](https://globalonlinetools.com/tools/md5-sha1-hash-tool) – Create cryptographic hashes.  
-- [Random Name Picker](https://globalonlinetools.com/tools/random-name-picker) – Pick random names for contests or games.  
-- [Email Signature Generator](https://globalonlinetools.com/tools/email-signature-generator) – Create professional email signatures.  
-
-**Other productivity tools:**  
-- [Notion](https://www.notion.so) – Notes and project management.  
-- [Trello](https://trello.com) – Visual project boards.  
-- [Google Keep](https://keep.google.com) – Quick note-taking and reminders.  
-
----
-
-## 🖥 Website & SEO Utilities
-
-- [WordPress Theme Detector](https://globalonlinetools.com/tools/wordpress-theme-detector) – Detect themes on WordPress sites.  
-- [Mortgage/Loan Calculator](https://globalonlinetools.com/tools/mortgage-loan-calculator) – Calculate mortgage or loan payments.  
-- [QR Code Generator](https://globalonlinetools.com/tools/qr-code-generator) – Generate QR codes for URLs, Wi-Fi, and more.  
-- [Text Summary Tool](https://globalonlinetools.com/tools/text-summary/) – Summarize large text content instantly.  
-
-**Other SEO & website tools:**  
-- [GTmetrix](https://gtmetrix.com) – Analyze website speed.  
-- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google site speed analysis.  
-- [Ubersuggest](https://neilpatel.com/ubersuggest/) – Keyword research and SEO analytics.  
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you know a free online tool that should be added:
-
-1. Fork this repository.  
-2. Add your tool under the relevant category in `README.md`.  
-3. Submit a pull request.  
-
-Please ensure tools are **free, web-based, and accessible**.  
-
----
-
-## 📜 Legal & Contact
-
-- [Privacy Policy](https://globalonlinetools.com/privacy-policy/)  
-- [Terms & Conditions](https://globalonlinetools.com/terms/)  
-- [Contact](https://globalonlinetools.com/contact/)  
-
----
-
-## 📈 Promotion & Visibility Tips
-
-- Share this repository on Twitter, LinkedIn, Reddit, and developer forums.  
-- Regularly update README.md with new tools or improvements.  
-- Participate in GitHub discussions to showcase this resource.  
-- Include your website link in your GitHub profile for extra authority.  
-
+Found a free tool that belongs here? Open a pull request. Keep it free (or with a genuinely useful free tier), keep the description to one concrete line, and add it to the right section.
