@@ -68,7 +68,8 @@
 **Other design tools:**  
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
-- [Pixlr](https://pixlr.com) – Online image editing.  
+- [Pixlr](https://pixlr.com) – Online image editing.
+- [Free PNG to JPG Converter](https://freepngconvert.com/png-to-jpg?utm_campaign=backlinks-202609&utm_content=feature-11&utm_medium=referral&utm_source=github.com) – Convert PNG images to JPG online.  
 
 ---
 
