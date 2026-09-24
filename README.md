@@ -97,6 +97,7 @@
 - [GTmetrix](https://gtmetrix.com) – Analyze website speed.  
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google site speed analysis.  
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) – Keyword research and SEO analytics.  
+- [ProductDirs](https://productdirs.com/categories?utm_campaign=backlinks-202609&utm_content=feature-10&utm_medium=referral&utm_source=github.com) – Browse AI tool categories and discover recently launched projects.  
 
 ---
 
