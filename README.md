@@ -69,6 +69,7 @@
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
+- [My Pet Character](https://mypetcharacter.com/?utm_campaign=backlinks-202609&utm_content=home-09&utm_medium=referral&utm_source=github.com) – Turn pet photos into reusable AI character designs for stickers, cards, and clips.  
 
 ---
 
