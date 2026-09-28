@@ -62,6 +62,8 @@
 
 ## 🎨 Design & Graphics Tools
 
+- [File Converter](https://fileontap.com/) – Free browser-based conversion and compression for HEIC, WebP, PNG and JPG images plus image↔PDF workflows; files stay on the device.
+
 - [Meme/Graphic Creator](https://globalonlinetools.com/tools/meme-graphic-creator) – Generate memes or graphics quickly.  
 - [Color Code Picker & Converter](https://globalonlinetools.com/tools/color-code-picker-converter) – Pick and convert color codes easily.  
 
