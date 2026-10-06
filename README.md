@@ -57,6 +57,7 @@
 - [Buffer](https://buffer.com) – Social media management.  
 - [Canva](https://www.canva.com) – Free templates for social graphics.  
 - [Bitly](https://bitly.com) – URL shortening and tracking.  
+- [KupitSledovatelov.sk Growth Calculator (Slovak)](https://kupitsledovatelov.sk/tools/follower-growth) – Free browser calculator for the average daily and weekly net follower gains needed to reach a target, without an account or profile lookup.
 
 ---
 
