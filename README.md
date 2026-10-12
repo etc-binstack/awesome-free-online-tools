@@ -8,6 +8,7 @@
 
 - [Developer & Code Tools](#developer--code-tools)  
 - [YouTube & Video Tools](#youtube--video-tools)  
+- [Audio Processing Tools](#audio-processing-tools)  
 - [Social Media & Marketing Tools](#social-media--marketing-tools)  
 - [Design & Graphics Tools](#design--graphics-tools)  
 - [Security & Productivity Tools](#security--productivity-tools)  
@@ -45,6 +46,12 @@
 **Other free video tools:**  
 - [Kapwing](https://www.kapwing.com) – Online video editor and meme generator.  
 - [VEED.io](https://www.veed.io) – Quick online video editor.  
+
+---
+
+## 🎙 Audio Processing Tools
+
+- [QuietTake Noise Remover](https://noiseremover.site/) – Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; each file must be 50 MB or smaller and five minutes or shorter, with no account or audio upload required.  
 
 ---
 
