@@ -90,6 +90,7 @@
 
 - [WordPress Theme Detector](https://globalonlinetools.com/tools/wordpress-theme-detector) – Detect themes on WordPress sites.  
 - [Mortgage/Loan Calculator](https://globalonlinetools.com/tools/mortgage-loan-calculator) – Calculate mortgage or loan payments.  
+- [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) – Estimate US roof replacement cost ranges by size, material, location, and tear-off.
 - [QR Code Generator](https://globalonlinetools.com/tools/qr-code-generator) – Generate QR codes for URLs, Wi-Fi, and more.  
 - [Text Summary Tool](https://globalonlinetools.com/tools/text-summary/) – Summarize large text content instantly.  
 
