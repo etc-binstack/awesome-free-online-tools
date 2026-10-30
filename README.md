@@ -97,6 +97,7 @@
 - [GTmetrix](https://gtmetrix.com) – Analyze website speed.  
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) – Google site speed analysis.  
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) – Keyword research and SEO analytics.  
+- [Canonical Tag Checker](https://radarmakers.com/tools/meta-tag-preview) - Check a page canonical URL, title, description, robots tags and redirects, free with no account.  
 
 ---
 
