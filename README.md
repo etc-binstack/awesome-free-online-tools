@@ -57,6 +57,7 @@
 - [Buffer](https://buffer.com) – Social media management.  
 - [Canva](https://www.canva.com) – Free templates for social graphics.  
 - [Bitly](https://bitly.com) – URL shortening and tracking.  
+- [Telegram Sponsorship Quote Comparator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) – Compare Telegram channel placement quotes against median views from recent comparable posts and estimate CPM; free, browser-only, no signup.
 
 ---
 
