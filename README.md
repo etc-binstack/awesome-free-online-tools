@@ -77,6 +77,7 @@
 - [Random Password Generator](https://globalonlinetools.com/tools/random-password-generator) – Generate secure passwords.  
 - [MD5/SHA1 Hash Tool](https://globalonlinetools.com/tools/md5-sha1-hash-tool) – Create cryptographic hashes.  
 - [Random Name Picker](https://globalonlinetools.com/tools/random-name-picker) – Pick random names for contests or games.  
+- [RandomGeneratr NPC Generator](https://randomgeneratr.com/npc-generator) – Generate fictional NPC names, motives, flaws, and story hooks for writing and tabletop preparation.
 - [Email Signature Generator](https://globalonlinetools.com/tools/email-signature-generator) – Create professional email signatures.  
 
 **Other productivity tools:**  
