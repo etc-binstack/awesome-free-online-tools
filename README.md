@@ -69,6 +69,7 @@
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
+- [PixelArtHive](https://pixelarthive.com/) – Convert images to pixel art and upscale pixel graphics locally in the browser, for free without signup.  
 
 ---
 
