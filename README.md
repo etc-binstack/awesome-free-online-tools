@@ -66,6 +66,7 @@
 - [Color Code Picker & Converter](https://globalonlinetools.com/tools/color-code-picker-converter) – Pick and convert color codes easily.  
 
 **Other design tools:**  
+- [StagePeek](https://stagepeek.live) – Interactive 2D seating maps and custom 3D concert arena sightlines across 201 venues (free, no sign-up).  
 - [Figma](https://www.figma.com) – Free UI/UX design tool.  
 - [Unsplash](https://unsplash.com) – Free high-quality stock images.  
 - [Pixlr](https://pixlr.com) – Online image editing.  
